@@ -1,4 +1,4 @@
-# MXM_v3_1_Pinmapping
+# [MXM_v3_1_Pinmapping].(https://github.com/Naoki-Karasawa/MXM_v3_1_Pinmapping/).
 
 MXM 3.1コネクタのピンマップとPCIeカードエッジピンマップの接続を記載した備忘録である。
 本マッピングはゲーミングラップトップのリバースエンジニアリングとSpecificationの内容をもとに
